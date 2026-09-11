@@ -1,0 +1,17 @@
+{
+  "name": "Original Bebidas",
+  "short_name": "Original Bebidas",
+  "description": "Distribuidora de Bebidas em Contagem, MG",
+  "start_url": "/original-bebidas/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a1a1a",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='40' fill='%231a1a1a'/><path d='M96 48C96 48 76 60 76 84C76 108 85 128 96 128C107 128 116 108 116 84C116 60 96 48 96 48Z' fill='%23FFD700'/><circle cx='60' cy='152' r='12' fill='%23FFD700'/><circle cx='132' cy='152' r='12' fill='%23FFD700'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
